@@ -1,0 +1,26 @@
+h1{
+  color: blue;
+  text-align: center;
+}
+h2{
+  color: green;
+  background-color: #212121;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  color: #BF360C;
+  font-family: sans-serif;
+}
+
+ul{
+  line-height: 40px;
+}
+a{font-size: 25px;
+}
+strong{
+  font-style: italic;
+}
+em{
+  font-weight: bold;
+}
